@@ -1,0 +1,14 @@
+{
+    "paperType": "NORMAL",
+    "summariesByPaperIndex": {
+        "0": {
+            "summaryByProblemType": {
+                "SUBJECTIVE": {
+                    "total": 1,
+                    "totalScore": 100,
+                    "totalInPools": 1
+                }
+            }
+        }
+    }
+}

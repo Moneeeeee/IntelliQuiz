@@ -1,0 +1,23 @@
+[
+    {
+        "paper_id": "1729698239376171008",
+        "problem_type": "TRUE_OR_FALSE",
+        "total": 10,
+        "total_score": 10,
+        "total_in_pools": 10
+    },
+    {
+        "paper_id": "1729698239376171008",
+        "problem_type": "MULTIPLE_CHOICE",
+        "total": 10,
+        "total_score": 20,
+        "total_in_pools": 10
+    },
+    {
+        "paper_id": "1729698239376171008",
+        "problem_type": "PROGRAMMING",
+        "total": 3,
+        "total_score": 20,
+        "total_in_pools": 3
+    }
+]

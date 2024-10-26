@@ -1,0 +1,31 @@
+{
+    "userGroupProblemSets": [
+        {
+            "id": "1720265154717511680",
+            "permission": {
+                "permission": 47
+            },
+            "config": {
+                "multiplePaperIndex": 0
+            },
+            "userGroupId": "1704067266309910528",
+            "problemSetId": "1720264455304736768"
+        }
+    ],
+    "userGroupById": {
+        "1704067266309910528": {
+            "id": "1704067266309910528",
+            "name": "23电子类1-2班",
+            "description": "23电子类1-2班",
+            "creator": {
+                "id": "925290179869147136",
+                "nickname": "曹海"
+            },
+            "membersCount": 89,
+            "locked": false,
+            "visible": true,
+            "type": "STUDENT_USER",
+            "memberVisible": true
+        }
+    }
+}

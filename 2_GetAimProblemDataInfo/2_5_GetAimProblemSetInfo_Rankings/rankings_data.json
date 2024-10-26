@@ -1,0 +1,3485 @@
+{
+    "total": 84,
+    "commonRankings": {
+        "labels": [
+            "6-1",
+            "6-2",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "commonRankings": [
+            {
+                "rank": 1,
+                "user": {
+                    "user": {
+                        "id": "1712614012604071936",
+                        "nickname": "赵守海"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800467",
+                        "name": "赵守海",
+                        "id": "1704068017715265548"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727992963216240640",
+                "totalScore": 100.0,
+                "typeScores": {
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0
+                },
+                "solvingTime": 1061,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 55,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 83,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 1020,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 172,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 198,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 976,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 17,
+                        "acceptTime": 1061,
+                        "submitCountSnapshot": 17
+                    }
+                },
+                "startAt": "2023-11-24T10:10:01Z"
+            },
+            {
+                "rank": 2,
+                "user": {
+                    "user": {
+                        "id": "1712762730456236032",
+                        "nickname": "yjy"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800356",
+                        "name": "易建宇",
+                        "id": "1704068017711071240"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727991718183243776",
+                "totalScore": 99.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 11.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0
+                },
+                "solvingTime": 235,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 67,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 74,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 43,
+                        "acceptTime": 235,
+                        "submitCountSnapshot": 43
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 108,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 113,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 138,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 174,
+                        "submitCountSnapshot": 5
+                    }
+                },
+                "startAt": "2023-11-24T10:05:04Z"
+            },
+            {
+                "rank": 2,
+                "user": {
+                    "user": {
+                        "id": "1712680990656118784",
+                        "nickname": "陈金洲"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800384",
+                        "name": "陈金洲",
+                        "id": "1704068017715265566"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728005825477287936",
+                "totalScore": 99.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 11.0
+                },
+                "solvingTime": 998,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 19,
+                        "acceptTime": 210,
+                        "submitCountSnapshot": 19
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 213,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 257,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 272,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 288,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 340,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 373,
+                        "submitCountSnapshot": 4
+                    }
+                },
+                "startAt": "2023-11-24T11:01:08Z"
+            },
+            {
+                "rank": 4,
+                "user": {
+                    "user": {
+                        "id": "1447476823389769728",
+                        "nickname": "胡于晨"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202100800395",
+                        "name": "胡于晨",
+                        "id": "1445586522225999889"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728003963982258176",
+                "totalScore": 98.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0,
+                    "MULTIPLE_CHOICE": 28.0
+                },
+                "solvingTime": 217,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 151,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 153,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 217,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 165,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 166,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 171,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 198,
+                        "submitCountSnapshot": 4
+                    }
+                },
+                "startAt": "2023-11-24T10:53:44Z"
+            },
+            {
+                "rank": 5,
+                "user": {
+                    "user": {
+                        "id": "1706843958896078848",
+                        "nickname": "武佳慧"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800485",
+                        "name": "武佳慧",
+                        "id": "1704068017715265591"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990725487947776",
+                "totalScore": 97.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0
+                },
+                "solvingTime": 964,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 89,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 302,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 420,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 190,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 319,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 29,
+                        "acceptTime": 964,
+                        "submitCountSnapshot": 29
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 458,
+                        "submitCountSnapshot": 3
+                    }
+                },
+                "startAt": "2023-11-24T10:01:08Z"
+            },
+            {
+                "rank": 5,
+                "user": {
+                    "user": {
+                        "id": "1712619196549906432",
+                        "nickname": "曾毓浩"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800404",
+                        "name": "曾毓浩",
+                        "id": "1704068017711071250"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990460147896321",
+                "totalScore": 97.0,
+                "typeScores": {
+                    "PROGRAMMING": 38.0,
+                    "CODE_COMPLETION": 8.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 11.0
+                },
+                "solvingTime": 998,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 73,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 108,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 120,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 21,
+                        "acceptTime": 909,
+                        "submitCountSnapshot": 21
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 159,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 4.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 166,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 977,
+                        "submitCountSnapshot": 5
+                    }
+                },
+                "startAt": "2023-11-24T10:00:04Z"
+            },
+            {
+                "rank": 7,
+                "user": {
+                    "user": {
+                        "id": "1706843697930694656",
+                        "nickname": "也许没人在"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800448",
+                        "name": "杜畅",
+                        "id": "1704068017715265543"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990987871031296",
+                "totalScore": 96.0,
+                "typeScores": {
+                    "PROGRAMMING": 37.0,
+                    "CODE_COMPLETION": 7.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "MULTIPLE_CHOICE": 30.0
+                },
+                "solvingTime": 973,
+                "problemScoreByProblemSetProblemId": {
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 38,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 75,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 137,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 149,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 180,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848984": {
+                        "score": 1.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 244,
+                        "submitCountSnapshot": 13
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 956,
+                        "submitCountSnapshot": 3
+                    }
+                },
+                "startAt": "2023-11-24T10:02:10Z"
+            },
+            {
+                "rank": 7,
+                "user": {
+                    "user": {
+                        "id": "1706844345266978816",
+                        "nickname": "张逸晴"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202100700221",
+                        "name": "张逸晴",
+                        "id": "1704068017715265592"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727991159258681344",
+                "totalScore": 96.0,
+                "typeScores": {
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "TRUE_OR_FALSE": 10.0
+                },
+                "solvingTime": 1009,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 12,
+                        "acceptTime": 110,
+                        "submitCountSnapshot": 12
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 112,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 128,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 147,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 157,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 162,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 202,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:02:51Z"
+            },
+            {
+                "rank": 9,
+                "user": {
+                    "user": {
+                        "id": "1480400154200678400",
+                        "nickname": "赵金燕"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202100800074",
+                        "name": "赵金燕",
+                        "id": "1480099289711624262"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728002323845812224",
+                "totalScore": 95.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0
+                },
+                "solvingTime": 183,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 122,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 123,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 127,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 128,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 129,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 130,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 180,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:47:13Z"
+            },
+            {
+                "rank": 9,
+                "user": {
+                    "user": {
+                        "id": "1712611088125607936",
+                        "nickname": "电子01李子岳"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800424",
+                        "name": "李子岳",
+                        "id": "1704068017715265537"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990451474067456",
+                "totalScore": 95.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 37.0
+                },
+                "solvingTime": 372,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 199,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 77,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 126,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 182,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 372,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 166,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 348,
+                        "submitCountSnapshot": 9
+                    }
+                },
+                "startAt": "2023-11-24T10:00:02Z"
+            },
+            {
+                "rank": 9,
+                "user": {
+                    "user": {
+                        "id": "1712690075271118848",
+                        "nickname": "lyf"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800405",
+                        "name": "路雨凡",
+                        "id": "1704068017715265571"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727994040506454016",
+                "totalScore": 95.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 37.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0
+                },
+                "solvingTime": 1066,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 89,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 40,
+                        "acceptTime": 1066,
+                        "submitCountSnapshot": 40
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 17,
+                        "acceptTime": 421,
+                        "submitCountSnapshot": 17
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 354,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 1025,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 340,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 415,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:14:18Z"
+            },
+            {
+                "rank": 12,
+                "user": {
+                    "user": {
+                        "id": "1583054398129319936",
+                        "nickname": "张喜金"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202100830115",
+                        "name": "张喜金",
+                        "id": "1582563075232096257"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728025708860612608",
+                "totalScore": 94.0,
+                "typeScores": {
+                    "PROGRAMMING": 37.0,
+                    "CODE_COMPLETION": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "TRUE_OR_FALSE": 10.0
+                },
+                "solvingTime": 211,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 143,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 145,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 146,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 147,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 165,
+                        "submitCountSnapshot": 13
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 24,
+                        "acceptTime": 211,
+                        "submitCountSnapshot": 24
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 184,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T12:20:08Z"
+            },
+            {
+                "rank": 13,
+                "user": {
+                    "user": {
+                        "id": "1712691752665563136",
+                        "nickname": "盛天乐"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800366",
+                        "name": "盛天乐",
+                        "id": "1704068017711071243"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990838004359168",
+                "totalScore": 93.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 38.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0
+                },
+                "solvingTime": 924,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 71,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 196,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 17,
+                        "acceptTime": 292,
+                        "submitCountSnapshot": 17
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 292,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 12,
+                        "acceptTime": 155,
+                        "submitCountSnapshot": 12
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 167,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 924,
+                        "submitCountSnapshot": 11
+                    }
+                },
+                "startAt": "2023-11-24T10:01:34Z"
+            },
+            {
+                "rank": 13,
+                "user": {
+                    "user": {
+                        "id": "1712616227779600384",
+                        "nickname": "王少航"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800478",
+                        "name": "王少航",
+                        "id": "1704068017715265586"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728004911878172672",
+                "totalScore": 93.0,
+                "typeScores": {
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 37.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "TRUE_OR_FALSE": 9.0
+                },
+                "solvingTime": 1012,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 134,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 17,
+                        "acceptTime": 181,
+                        "submitCountSnapshot": 17
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 217,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 228,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 308,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 283,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 1012,
+                        "submitCountSnapshot": 3
+                    }
+                },
+                "startAt": "2023-11-24T10:57:30Z"
+            },
+            {
+                "rank": 13,
+                "user": {
+                    "user": {
+                        "id": "1712684834089832448",
+                        "nickname": "王诣之"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800411",
+                        "name": "王诣之",
+                        "id": "1704068017715265574"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727993865780129792",
+                "totalScore": 93.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 9.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0,
+                    "CODE_COMPLETION": 8.0,
+                    "PROGRAMMING": 38.0,
+                    "MULTIPLE_CHOICE": 28.0
+                },
+                "solvingTime": 1040,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 94,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 820,
+                        "submitCountSnapshot": 13
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 186,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 211,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 266,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 959,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727607360951848984": {
+                        "score": 2.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 1040,
+                        "submitCountSnapshot": 4
+                    }
+                },
+                "startAt": "2023-11-24T10:13:36Z"
+            },
+            {
+                "rank": 13,
+                "user": {
+                    "user": {
+                        "id": "1706843861273657344",
+                        "nickname": "吕明哲"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800482",
+                        "name": "吕明哲",
+                        "id": "1704068017715265589"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990453990658048",
+                "totalScore": 93.0,
+                "typeScores": {
+                    "PROGRAMMING": 37.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "CODE_COMPLETION": 8.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0
+                },
+                "solvingTime": 1077,
+                "problemScoreByProblemSetProblemId": {
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 690,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 155,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 167,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 195,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 5.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 681,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848984": {
+                        "score": 3.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 788,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 942,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:00:03Z"
+            },
+            {
+                "rank": 13,
+                "user": {
+                    "user": {
+                        "id": "1712716910843367424",
+                        "nickname": "裴兴驰"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800450",
+                        "name": "裴兴驰",
+                        "id": "1704068017715265581"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727999721527644160",
+                "totalScore": 93.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 34.0,
+                    "MULTIPLE_CHOICE": 30.0
+                },
+                "solvingTime": 1077,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 1066,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724292": {
+                        "score": 1.0,
+                        "validSubmitCount": 20,
+                        "acceptTime": 1077,
+                        "submitCountSnapshot": 20
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 161,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 189,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 12,
+                        "acceptTime": 1059,
+                        "submitCountSnapshot": 12
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 973,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 1061,
+                        "submitCountSnapshot": 7
+                    }
+                },
+                "startAt": "2023-11-24T10:36:52Z"
+            },
+            {
+                "rank": 18,
+                "user": {
+                    "user": {
+                        "id": "1712680084355104768",
+                        "nickname": "电子02叶雨轩"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800390",
+                        "name": "叶雨轩",
+                        "id": "1704068017715265567"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727994534360588288",
+                "totalScore": 92.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "PROGRAMMING": 37.0,
+                    "CODE_COMPLETION": 7.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0
+                },
+                "solvingTime": 1075,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 14,
+                        "acceptTime": 195,
+                        "submitCountSnapshot": 14
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 208,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 262,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 288,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 340,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 1026,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727607360951848984": {
+                        "score": 1.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 1075,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:16:16Z"
+            },
+            {
+                "rank": 19,
+                "user": {
+                    "user": {
+                        "id": "1712691460997857280",
+                        "nickname": "卫乐尧"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800393",
+                        "name": "卫乐尧",
+                        "id": "1704068017715265568"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727995129075134464",
+                "totalScore": 91.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 37.0
+                },
+                "solvingTime": 989,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 130,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 170,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 827,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 217,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 797,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 847,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 989,
+                        "submitCountSnapshot": 3
+                    }
+                },
+                "startAt": "2023-11-24T10:18:38Z"
+            },
+            {
+                "rank": 20,
+                "user": {
+                    "user": {
+                        "id": "1498222116092166144",
+                        "nickname": "孙铭阳"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202100800044",
+                        "name": "孙铭阳",
+                        "id": "1480099289711624235"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990604029300736",
+                "totalScore": 90.0,
+                "typeScores": {
+                    "MULTIPLE_CHOICE": 24.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0,
+                    "TRUE_OR_FALSE": 9.0
+                },
+                "solvingTime": 110,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 54,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 63,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 67,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 15,
+                        "acceptTime": 109,
+                        "submitCountSnapshot": 15
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 98,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 101,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 105,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:00:39Z"
+            },
+            {
+                "rank": 20,
+                "user": {
+                    "user": {
+                        "id": "1712677478312415232",
+                        "nickname": "季平衡"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800351",
+                        "name": "季平衡",
+                        "id": "1704068017715265559"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727993647760216064",
+                "totalScore": 90.0,
+                "typeScores": {
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 37.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0,
+                    "MULTIPLE_CHOICE": 24.0,
+                    "TRUE_OR_FALSE": 9.0
+                },
+                "solvingTime": 202,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 83,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 103,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 114,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 181,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 128,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 160,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 147,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:12:44Z"
+            },
+            {
+                "rank": 20,
+                "user": {
+                    "user": {
+                        "id": "1706843952336203776",
+                        "nickname": "蒋雨航"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800372",
+                        "name": "蒋雨航",
+                        "id": "1704068017711071244"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727994826548387840",
+                "totalScore": 90.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 8.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0,
+                    "CODE_COMPLETION": 8.0,
+                    "PROGRAMMING": 38.0
+                },
+                "solvingTime": 861,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 3.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 102,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727607360951848985": {
+                        "score": 5.0,
+                        "validSubmitCount": 10,
+                        "acceptTime": 116,
+                        "submitCountSnapshot": 10
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 157,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 12,
+                        "acceptTime": 204,
+                        "submitCountSnapshot": 12
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 224,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 306,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 861,
+                        "submitCountSnapshot": 13
+                    }
+                },
+                "startAt": "2023-11-24T10:17:25Z"
+            },
+            {
+                "rank": 20,
+                "user": {
+                    "user": {
+                        "id": "1712611868895313920",
+                        "nickname": "酒长"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800470",
+                        "name": "周兴",
+                        "id": "1704068017715265584"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727995353499770880",
+                "totalScore": 90.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 9.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 7.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 36.0
+                },
+                "solvingTime": 902,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 105,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 127,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 200,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727616493709115392": {
+                        "score": 4.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 873,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 882,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 898,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 902,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:19:31Z"
+            },
+            {
+                "rank": 20,
+                "user": {
+                    "user": {
+                        "id": "1712760098836680704",
+                        "nickname": "谢"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202200630211",
+                        "name": "谢美琪",
+                        "id": "1704068017715265555"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990464589664256",
+                "totalScore": 90.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 34.0
+                },
+                "solvingTime": 1025,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 24,
+                        "acceptTime": 1025,
+                        "submitCountSnapshot": 24
+                    },
+                    "1727606778291724292": {
+                        "score": 3.0,
+                        "validSubmitCount": 27,
+                        "acceptTime": 477,
+                        "submitCountSnapshot": 27
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 213,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 229,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 307,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727606778291724296": {
+                        "score": 8.0,
+                        "validSubmitCount": 39,
+                        "acceptTime": 448,
+                        "submitCountSnapshot": 39
+                    },
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 1074,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:00:05Z"
+            },
+            {
+                "rank": 20,
+                "user": {
+                    "user": {
+                        "id": "1712687943872626688",
+                        "nickname": "屁屁桃"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800363",
+                        "name": "李靖如",
+                        "id": "1704068017715265561"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727992219155111936",
+                "totalScore": 90.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 24.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 8.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 38.0
+                },
+                "solvingTime": 1079,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 12,
+                        "acceptTime": 155,
+                        "submitCountSnapshot": 12
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 94,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 15,
+                        "acceptTime": 158,
+                        "submitCountSnapshot": 15
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 14,
+                        "acceptTime": 241,
+                        "submitCountSnapshot": 14
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 257,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 285,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 22,
+                        "acceptTime": 1079,
+                        "submitCountSnapshot": 22
+                    }
+                },
+                "startAt": "2023-11-24T10:07:04Z"
+            },
+            {
+                "rank": 26,
+                "user": {
+                    "user": {
+                        "id": "1712694249077571584",
+                        "nickname": "姜龙翔"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800409",
+                        "name": "姜龙翔",
+                        "id": "1704068017711071251"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990448387072000",
+                "totalScore": 89.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 9.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 32.0
+                },
+                "solvingTime": 949,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 149,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 153,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 194,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 2.0,
+                        "validSubmitCount": 18,
+                        "acceptTime": 236,
+                        "submitCountSnapshot": 18
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 250,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 867,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727606778291724296": {
+                        "score": 7.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 949,
+                        "submitCountSnapshot": 13
+                    }
+                },
+                "startAt": "2023-11-24T10:00:02Z"
+            },
+            {
+                "rank": 27,
+                "user": {
+                    "user": {
+                        "id": "1712618547456196608",
+                        "nickname": "zzy"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800345",
+                        "name": "赵泽屹",
+                        "id": "1704068017715265556"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728001528047931392",
+                "totalScore": 88.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 11.0,
+                    "CODE_COMPLETION": 7.0,
+                    "PROGRAMMING": 32.0
+                },
+                "solvingTime": 1063,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 1.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 1046,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 159,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 10,
+                        "acceptTime": 989,
+                        "submitCountSnapshot": 10
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 888,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 906,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 928,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 5.0,
+                        "validSubmitCount": 14,
+                        "acceptTime": 1063,
+                        "submitCountSnapshot": 14
+                    }
+                },
+                "startAt": "2023-11-24T10:44:03Z"
+            },
+            {
+                "rank": 27,
+                "user": {
+                    "user": {
+                        "id": "1712651968807133184",
+                        "nickname": "黄滕达"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800369",
+                        "name": "黄滕达",
+                        "id": "1704068017715265563"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990464237342720",
+                "totalScore": 88.0,
+                "typeScores": {
+                    "MULTIPLE_CHOICE": 28.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 33.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 7.0
+                },
+                "solvingTime": 1069,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 25,
+                        "acceptTime": 170,
+                        "submitCountSnapshot": 25
+                    },
+                    "1727606778291724292": {
+                        "score": 0.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 96,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 110,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 141,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 154,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 20,
+                        "acceptTime": 1069,
+                        "submitCountSnapshot": 20
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 854,
+                        "submitCountSnapshot": 6
+                    }
+                },
+                "startAt": "2023-11-24T10:00:05Z"
+            },
+            {
+                "rank": 29,
+                "user": {
+                    "user": {
+                        "id": "1712680460651298816",
+                        "nickname": "l"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800346",
+                        "name": "董春良",
+                        "id": "1704068017715265557"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727992525469327360",
+                "totalScore": 87.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "CODE_COMPLETION": 7.0,
+                    "PROGRAMMING": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0
+                },
+                "solvingTime": 1053,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 1.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 255,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 289,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 15,
+                        "acceptTime": 956,
+                        "submitCountSnapshot": 15
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 967,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 197,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 989,
+                        "submitCountSnapshot": 7
+                    }
+                },
+                "startAt": "2023-11-24T10:08:17Z"
+            },
+            {
+                "rank": 29,
+                "user": {
+                    "user": {
+                        "id": "1712666190274334720",
+                        "nickname": "魏敬航"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800457",
+                        "name": "魏敬航",
+                        "id": "1704068017715265582"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727999652342603776",
+                "totalScore": 87.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 29.0,
+                    "MULTIPLE_CHOICE": 30.0
+                },
+                "solvingTime": 1074,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 145,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 151,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 0.0,
+                        "validSubmitCount": 25,
+                        "acceptTime": 181,
+                        "submitCountSnapshot": 25
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 265,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 305,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727616493709115392": {
+                        "score": 4.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 970,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724296": {
+                        "score": 8.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 1069,
+                        "submitCountSnapshot": 8
+                    }
+                },
+                "startAt": "2023-11-24T10:36:36Z"
+            },
+            {
+                "rank": 31,
+                "user": {
+                    "user": {
+                        "id": "1712788856503222272",
+                        "nickname": "黄安然"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800354",
+                        "name": "黄安然",
+                        "id": "1704068017711071239"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990471548018688",
+                "totalScore": 85.0,
+                "typeScores": {
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 33.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 6.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "TRUE_OR_FALSE": 10.0
+                },
+                "solvingTime": 850,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 43,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 97,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 112,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 12,
+                        "acceptTime": 822,
+                        "submitCountSnapshot": 12
+                    },
+                    "1727607360951848986": {
+                        "score": 6.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 143,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 797,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724296": {
+                        "score": 7.0,
+                        "validSubmitCount": 15,
+                        "acceptTime": 341,
+                        "submitCountSnapshot": 15
+                    }
+                },
+                "startAt": "2023-11-24T10:00:07Z"
+            },
+            {
+                "rank": 31,
+                "user": {
+                    "user": {
+                        "id": "1712740530051301376",
+                        "nickname": "Miyagi"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800365",
+                        "name": "齐宋博",
+                        "id": "1704068017715265562"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727999005316673536",
+                "totalScore": 85.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 6.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 37.0
+                },
+                "solvingTime": 1072,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 14,
+                        "acceptTime": 142,
+                        "submitCountSnapshot": 14
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 198,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 290,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 384,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 1043,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 1072,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:34:02Z"
+            },
+            {
+                "rank": 33,
+                "user": {
+                    "user": {
+                        "id": "1712652499243991040",
+                        "nickname": "暗号"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800475",
+                        "name": "袁嘉",
+                        "id": "1704068017715265552"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728005235565207552",
+                "totalScore": 83.0,
+                "typeScores": {
+                    "CODE_COMPLETION": 9.0,
+                    "PROGRAMMING": 23.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 11.0,
+                    "MULTIPLE_CHOICE": 30.0
+                },
+                "solvingTime": 988,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 3.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 988,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 85,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724292": {
+                        "score": 0.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 98,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 198,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 916,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 947,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:58:47Z"
+            },
+            {
+                "rank": 33,
+                "user": {
+                    "user": {
+                        "id": "1706844131986620416",
+                        "nickname": "电子01靳明阳"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800477",
+                        "name": "靳明阳",
+                        "id": "1704068017715265554"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990450077372416",
+                "totalScore": 83.0,
+                "typeScores": {
+                    "MULTIPLE_CHOICE": 26.0,
+                    "TRUE_OR_FALSE": 8.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 33.0
+                },
+                "solvingTime": 996,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 113,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 148,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727616493709115392": {
+                        "score": 4.0,
+                        "validSubmitCount": 23,
+                        "acceptTime": 176,
+                        "submitCountSnapshot": 23
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 231,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 941,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727606778291724296": {
+                        "score": 7.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 996,
+                        "submitCountSnapshot": 8
+                    }
+                },
+                "startAt": "2023-11-24T10:00:02Z"
+            },
+            {
+                "rank": 35,
+                "user": {
+                    "user": {
+                        "id": "1712783902283628544",
+                        "nickname": "zzn"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800422",
+                        "name": "张子诺",
+                        "id": "1704068017715265536"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990862272598016",
+                "totalScore": 82.0,
+                "typeScores": {
+                    "PROGRAMMING": 35.0,
+                    "TRUE_OR_FALSE": 9.0,
+                    "CODE_COMPLETION": 6.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0,
+                    "MULTIPLE_CHOICE": 22.0
+                },
+                "solvingTime": 979,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 38,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727616493709115392": {
+                        "score": 3.0,
+                        "validSubmitCount": 16,
+                        "acceptTime": 125,
+                        "submitCountSnapshot": 16
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 138,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 182,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 19,
+                        "acceptTime": 922,
+                        "submitCountSnapshot": 19
+                    },
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 949,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 978,
+                        "submitCountSnapshot": 3
+                    }
+                },
+                "startAt": "2023-11-24T10:01:40Z"
+            },
+            {
+                "rank": 35,
+                "user": {
+                    "user": {
+                        "id": "1712666724603486208",
+                        "nickname": "陈佳康"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800361",
+                        "name": "陈佳康",
+                        "id": "1704068017715265560"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727994547501342720",
+                "totalScore": 82.0,
+                "typeScores": {
+                    "CODE_COMPLETION": 7.0,
+                    "PROGRAMMING": 27.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0
+                },
+                "solvingTime": 990,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 71,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 125,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 149,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 882,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 922,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848984": {
+                        "score": 1.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 990,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 1045,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:16:19Z"
+            },
+            {
+                "rank": 35,
+                "user": {
+                    "user": {
+                        "id": "1712762730317840384",
+                        "nickname": "徐嘉辰"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800449",
+                        "name": "徐嘉辰",
+                        "id": "1704068017715265544"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727996244315410432",
+                "totalScore": 82.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 9.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 35.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 6.0
+                },
+                "solvingTime": 1029,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 76,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 84,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 26,
+                        "acceptTime": 142,
+                        "submitCountSnapshot": 26
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 164,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727607360951848986": {
+                        "score": 6.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 996,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 1024,
+                        "submitCountSnapshot": 13
+                    },
+                    "1727606778291724296": {
+                        "score": 8.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 1029,
+                        "submitCountSnapshot": 5
+                    }
+                },
+                "startAt": "2023-11-24T10:23:03Z"
+            },
+            {
+                "rank": 35,
+                "user": {
+                    "user": {
+                        "id": "1712680008316583936",
+                        "nickname": "徐静怡"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800483",
+                        "name": "徐静怡",
+                        "id": "1704068017715265590"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727992368472334336",
+                "totalScore": 82.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "PROGRAMMING": 28.0,
+                    "CODE_COMPLETION": 10.0,
+                    "MULTIPLE_CHOICE": 24.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0
+                },
+                "solvingTime": 1055,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 21,
+                        "acceptTime": 338,
+                        "submitCountSnapshot": 21
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 114,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 33,
+                        "acceptTime": 1037,
+                        "submitCountSnapshot": 33
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 27,
+                        "acceptTime": 189,
+                        "submitCountSnapshot": 27
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 357,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 388,
+                        "submitCountSnapshot": 13
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 10,
+                        "acceptTime": 942,
+                        "submitCountSnapshot": 10
+                    }
+                },
+                "startAt": "2023-11-24T10:07:39Z"
+            },
+            {
+                "rank": 39,
+                "user": {
+                    "user": {
+                        "id": "1712745591271817216",
+                        "nickname": "杨贵鑫"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202200810110",
+                        "name": "杨贵鑫",
+                        "id": "1704068017711071235"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727992851756814336",
+                "totalScore": 81.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 8.0,
+                    "MULTIPLE_CHOICE": 30.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 5.0,
+                    "PROGRAMMING": 34.0,
+                    "CODE_COMPLETION": 4.0
+                },
+                "solvingTime": 192,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 1.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 118,
+                        "submitCountSnapshot": 13
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 135,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 140,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 144,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724296": {
+                        "score": 10.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 166,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 192,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727607360951848985": {
+                        "score": 0.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 195,
+                        "submitCountSnapshot": 3
+                    }
+                },
+                "startAt": "2023-11-24T10:09:35Z"
+            },
+            {
+                "rank": 39,
+                "user": {
+                    "user": {
+                        "id": "1712697595867926528",
+                        "nickname": "jmh"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800456",
+                        "name": "姜明辉",
+                        "id": "1704068017715265545"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990724233863168",
+                "totalScore": 81.0,
+                "typeScores": {
+                    "CODE_COMPLETION": 8.0,
+                    "PROGRAMMING": 21.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "MULTIPLE_CHOICE": 30.0
+                },
+                "solvingTime": 973,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 3.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 122,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848985": {
+                        "score": 5.0,
+                        "validSubmitCount": 15,
+                        "acceptTime": 142,
+                        "submitCountSnapshot": 15
+                    },
+                    "1727606778291724292": {
+                        "score": 0.0,
+                        "validSubmitCount": 18,
+                        "acceptTime": 165,
+                        "submitCountSnapshot": 18
+                    },
+                    "1727616493709115392": {
+                        "score": 4.0,
+                        "validSubmitCount": 31,
+                        "acceptTime": 200,
+                        "submitCountSnapshot": 31
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 894,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 16,
+                        "acceptTime": 945,
+                        "submitCountSnapshot": 16
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 994,
+                        "submitCountSnapshot": 7
+                    }
+                },
+                "startAt": "2023-11-24T10:01:07Z"
+            },
+            {
+                "rank": 41,
+                "user": {
+                    "user": {
+                        "id": "1706843443760050176",
+                        "nickname": "吴轶轩"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800352",
+                        "name": "吴轶轩",
+                        "id": "1704068017711071238"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990591584792576",
+                "totalScore": 80.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 4.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 28.0
+                },
+                "solvingTime": 387,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 22,
+                        "acceptTime": 177,
+                        "submitCountSnapshot": 22
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 26,
+                        "acceptTime": 219,
+                        "submitCountSnapshot": 26
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 78,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 93,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 39,
+                        "acceptTime": 387,
+                        "submitCountSnapshot": 39
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 135,
+                        "submitCountSnapshot": 1
+                    }
+                },
+                "startAt": "2023-11-24T10:00:36Z"
+            },
+            {
+                "rank": 41,
+                "user": {
+                    "user": {
+                        "id": "1712677428567949312",
+                        "nickname": "李宇晨"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800459",
+                        "name": "李宇晨",
+                        "id": "1704068017715265546"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727990483052994560",
+                "totalScore": 80.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "CODE_COMPLETION": 5.0,
+                    "PROGRAMMING": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 11.0,
+                    "MULTIPLE_CHOICE": 26.0
+                },
+                "solvingTime": 458,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 5.0,
+                        "validSubmitCount": 29,
+                        "acceptTime": 444,
+                        "submitCountSnapshot": 29
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 33,
+                        "acceptTime": 389,
+                        "submitCountSnapshot": 33
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 22,
+                        "acceptTime": 342,
+                        "submitCountSnapshot": 22
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 12,
+                        "acceptTime": 422,
+                        "submitCountSnapshot": 12
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 182,
+                        "submitCountSnapshot": 4
+                    }
+                },
+                "startAt": "2023-11-24T10:00:10Z"
+            },
+            {
+                "rank": 41,
+                "user": {
+                    "user": {
+                        "id": "1706843901341847552",
+                        "nickname": "舒文森"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800433",
+                        "name": "舒文森",
+                        "id": "1704068017715265539"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727992877300117504",
+                "totalScore": 80.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0,
+                    "PROGRAMMING": 28.0,
+                    "CODE_COMPLETION": 5.0,
+                    "MULTIPLE_CHOICE": 28.0
+                },
+                "solvingTime": 964,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 169,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 23,
+                        "acceptTime": 280,
+                        "submitCountSnapshot": 23
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 146,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848985": {
+                        "score": 5.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 178,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 23,
+                        "acceptTime": 964,
+                        "submitCountSnapshot": 23
+                    },
+                    "1727607360951848984": {
+                        "score": 0.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 911,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 941,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:09:41Z"
+            },
+            {
+                "rank": 41,
+                "user": {
+                    "user": {
+                        "id": "1712759134402613248",
+                        "nickname": "刘亦菲"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800415",
+                        "name": "刘亦菲",
+                        "id": "1704068017715265575"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727993430533009408",
+                "totalScore": 80.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0,
+                    "PROGRAMMING": 28.0,
+                    "CODE_COMPLETION": 4.0
+                },
+                "solvingTime": 1011,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 26,
+                        "acceptTime": 979,
+                        "submitCountSnapshot": 26
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 9,
+                        "acceptTime": 1011,
+                        "submitCountSnapshot": 9
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 182,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 10,
+                        "acceptTime": 339,
+                        "submitCountSnapshot": 10
+                    },
+                    "1727607360951848985": {
+                        "score": 4.0,
+                        "validSubmitCount": 13,
+                        "acceptTime": 383,
+                        "submitCountSnapshot": 13
+                    }
+                },
+                "startAt": "2023-11-24T10:11:53Z"
+            },
+            {
+                "rank": 45,
+                "user": {
+                    "user": {
+                        "id": "1712679405473447936",
+                        "nickname": "李元彭"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800341",
+                        "name": "李元彭",
+                        "id": "1704068017711071236"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727992766318833664",
+                "totalScore": 79.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 24.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 23.0
+                },
+                "solvingTime": 985,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 39,
+                        "acceptTime": 930,
+                        "submitCountSnapshot": 39
+                    },
+                    "1727606778291724292": {
+                        "score": 0.0,
+                        "validSubmitCount": 23,
+                        "acceptTime": 158,
+                        "submitCountSnapshot": 23
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 21,
+                        "acceptTime": 289,
+                        "submitCountSnapshot": 21
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 312,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 352,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 369,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 14,
+                        "acceptTime": 985,
+                        "submitCountSnapshot": 14
+                    }
+                },
+                "startAt": "2023-11-24T10:09:14Z"
+            },
+            {
+                "rank": 45,
+                "user": {
+                    "user": {
+                        "id": "1712665050526728192",
+                        "nickname": "202200620447"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202200620447",
+                        "name": "魏文博",
+                        "id": "1704068017711071232"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728064888026243072",
+                "totalScore": 79.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 26.0,
+                    "CODE_COMPLETION": 8.0,
+                    "PROGRAMMING": 23.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0
+                },
+                "solvingTime": 1046,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 410,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727607360951848985": {
+                        "score": 4.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 415,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727606778291724292": {
+                        "score": 0.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 1022,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 1035,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 1044,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 1046,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T14:55:49Z"
+            },
+            {
+                "rank": 45,
+                "user": {
+                    "user": {
+                        "id": "1712717161855664128",
+                        "nickname": "彭骏飞"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800376",
+                        "name": "彭骏飞",
+                        "id": "1704068017715265565"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1728002555937624064",
+                "totalScore": 79.0,
+                "typeScores": {
+                    "PROGRAMMING": 21.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 12.0,
+                    "CODE_COMPLETION": 6.0,
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 30.0
+                },
+                "solvingTime": 1074,
+                "problemScoreByProblemSetProblemId": {
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 992,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 139,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727607360951848986": {
+                        "score": 5.0,
+                        "validSubmitCount": 10,
+                        "acceptTime": 962,
+                        "submitCountSnapshot": 10
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 1042,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 1052,
+                        "submitCountSnapshot": 3
+                    }
+                },
+                "startAt": "2023-11-24T10:48:08Z"
+            },
+            {
+                "rank": 45,
+                "user": {
+                    "user": {
+                        "id": "1712611524761042944",
+                        "nickname": "kuai"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800407",
+                        "name": "樊晨曦",
+                        "id": "1704068017715265572"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727999757913223168",
+                "totalScore": 79.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 9.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 26.0,
+                    "MULTIPLE_CHOICE": 28.0
+                },
+                "solvingTime": 1077,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 91,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727616493709115392": {
+                        "score": 5.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 1005,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 6,
+                        "acceptTime": 166,
+                        "submitCountSnapshot": 6
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 5,
+                        "acceptTime": 212,
+                        "submitCountSnapshot": 5
+                    },
+                    "1727606778291724292": {
+                        "score": 4.0,
+                        "validSubmitCount": 8,
+                        "acceptTime": 986,
+                        "submitCountSnapshot": 8
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 1041,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:37:01Z"
+            },
+            {
+                "rank": 49,
+                "user": {
+                    "user": {
+                        "id": "1712780014713274368",
+                        "nickname": "陈帅宇"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800434",
+                        "name": "陈帅宇",
+                        "id": "1704068017715265540"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727993983845601280",
+                "totalScore": 78.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 10.0,
+                    "MULTIPLE_CHOICE": 28.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 10.0,
+                    "CODE_COMPLETION": 6.0,
+                    "PROGRAMMING": 24.0
+                },
+                "solvingTime": 206,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 120,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727606778291724292": {
+                        "score": 1.0,
+                        "validSubmitCount": 11,
+                        "acceptTime": 169,
+                        "submitCountSnapshot": 11
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 191,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 195,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 206,
+                        "submitCountSnapshot": 2
+                    }
+                },
+                "startAt": "2023-11-24T10:14:04Z"
+            },
+            {
+                "rank": 49,
+                "user": {
+                    "user": {
+                        "id": "1712651119800320000",
+                        "nickname": "____"
+                    },
+                    "studentUser": {
+                        "studentNumber": "202300800436",
+                        "name": "焉雨",
+                        "id": "1704068017715265541"
+                    },
+                    "userGroupId": "0",
+                    "examId": "0"
+                },
+                "examId": "1727991003834552320",
+                "totalScore": 78.0,
+                "typeScores": {
+                    "TRUE_OR_FALSE": 9.0,
+                    "MULTIPLE_CHOICE": 20.0,
+                    "FILL_IN_THE_BLANK_FOR_PROGRAMMING": 11.0,
+                    "CODE_COMPLETION": 10.0,
+                    "PROGRAMMING": 28.0
+                },
+                "solvingTime": 243,
+                "problemScoreByProblemSetProblemId": {
+                    "1727607360951848984": {
+                        "score": 4.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 243,
+                        "submitCountSnapshot": 4
+                    },
+                    "1727607360951848985": {
+                        "score": 6.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 83,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727616493709115392": {
+                        "score": 6.0,
+                        "validSubmitCount": 3,
+                        "acceptTime": 206,
+                        "submitCountSnapshot": 3
+                    },
+                    "1727607360951848986": {
+                        "score": 7.0,
+                        "validSubmitCount": 2,
+                        "acceptTime": 121,
+                        "submitCountSnapshot": 2
+                    },
+                    "1727606778291724295": {
+                        "score": 10.0,
+                        "validSubmitCount": 1,
+                        "acceptTime": 129,
+                        "submitCountSnapshot": 1
+                    },
+                    "1727606778291724292": {
+                        "score": 5.0,
+                        "validSubmitCount": 7,
+                        "acceptTime": 186,
+                        "submitCountSnapshot": 7
+                    },
+                    "1727606778291724296": {
+                        "score": 0.0,
+                        "validSubmitCount": 4,
+                        "acceptTime": 412,
+                        "submitCountSnapshot": 4
+                    }
+                },
+                "startAt": "2023-11-24T10:02:14Z"
+            }
+        ],
+        "labelByProblemSetProblemId": {
+            "1727607360951848984": "6-1",
+            "1727607360951848985": "6-2",
+            "1727606778291724292": "",
+            "1727616493709115392": "",
+            "1727607360951848986": "",
+            "1727606778291724295": "",
+            "1727606778291724296": ""
+        }
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "paper_id": "1722516260810194944",
+        "problem_type": "TRUE_OR_FALSE",
+        "total": 10,
+        "total_score": 10,
+        "total_in_pools": 10
+    },
+    {
+        "paper_id": "1722516260810194944",
+        "problem_type": "MULTIPLE_CHOICE",
+        "total": 10,
+        "total_score": 20,
+        "total_in_pools": 10
+    },
+    {
+        "paper_id": "1722516260810194944",
+        "problem_type": "CODE_COMPLETION",
+        "total": 3,
+        "total_score": 15,
+        "total_in_pools": 3
+    },
+    {
+        "paper_id": "1722516260810194944",
+        "problem_type": "PROGRAMMING",
+        "total": 5,
+        "total_score": 55,
+        "total_in_pools": 5
+    }
+]

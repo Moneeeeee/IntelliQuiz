@@ -1,0 +1,39 @@
+{
+    "paperType": "NORMAL",
+    "summariesByPaperIndex": {
+        "0": {
+            "summaryByProblemType": {
+                "TRUE_OR_FALSE": {
+                    "total": 13,
+                    "totalScore": 13,
+                    "totalInPools": 13
+                },
+                "MULTIPLE_CHOICE": {
+                    "total": 18,
+                    "totalScore": 36,
+                    "totalInPools": 18
+                },
+                "FILL_IN_THE_BLANK": {
+                    "total": 5,
+                    "totalScore": 10,
+                    "totalInPools": 5
+                },
+                "FILL_IN_THE_BLANK_FOR_PROGRAMMING": {
+                    "total": 2,
+                    "totalScore": 8,
+                    "totalInPools": 2
+                },
+                "CODE_COMPLETION": {
+                    "total": 3,
+                    "totalScore": 28,
+                    "totalInPools": 3
+                },
+                "PROGRAMMING": {
+                    "total": 1,
+                    "totalScore": 5,
+                    "totalInPools": 1
+                }
+            }
+        }
+    }
+}

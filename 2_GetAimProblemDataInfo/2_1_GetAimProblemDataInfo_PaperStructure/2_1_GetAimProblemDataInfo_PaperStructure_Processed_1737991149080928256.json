@@ -1,0 +1,44 @@
+[
+    {
+        "paper_id": "1737991149080928256",
+        "problem_type": "TRUE_OR_FALSE",
+        "total": 10,
+        "total_score": 10,
+        "total_in_pools": 10
+    },
+    {
+        "paper_id": "1737991149080928256",
+        "problem_type": "MULTIPLE_CHOICE",
+        "total": 10,
+        "total_score": 20,
+        "total_in_pools": 10
+    },
+    {
+        "paper_id": "1737991149080928256",
+        "problem_type": "FILL_IN_THE_BLANK_FOR_PROGRAMMING",
+        "total": 3,
+        "total_score": 15,
+        "total_in_pools": 3
+    },
+    {
+        "paper_id": "1737991149080928256",
+        "problem_type": "CODE_COMPLETION",
+        "total": 2,
+        "total_score": 20,
+        "total_in_pools": 2
+    },
+    {
+        "paper_id": "1737991149080928256",
+        "problem_type": "PROGRAMMING",
+        "total": 1,
+        "total_score": 15,
+        "total_in_pools": 1
+    },
+    {
+        "paper_id": "1737991149080928256",
+        "problem_type": "SUBJECTIVE",
+        "total": 1,
+        "total_score": 20,
+        "total_in_pools": 1
+    }
+]

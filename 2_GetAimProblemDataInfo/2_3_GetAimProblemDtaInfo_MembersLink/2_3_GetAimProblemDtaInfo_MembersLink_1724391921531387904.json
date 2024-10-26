@@ -1,0 +1,978 @@
+{
+    "total": 89,
+    "members": [
+        {
+            "id": "1704068018096947201",
+            "user": {
+                "id": "1310041342584938496",
+                "email": "1543859051@qq.com",
+                "nickname": "王子鸣",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1307671266799845376",
+                "studentNumber": "202000800166",
+                "name": "王子鸣",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947202",
+            "user": {
+                "id": "1446661705874468864",
+                "email": "1991422047@qq.com",
+                "nickname": "苟俊豪",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1444906007248146443",
+                "studentNumber": "202100800542",
+                "name": "苟俊豪",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947203",
+            "user": {
+                "id": "1447476823389769728",
+                "email": "774461690@qq.com",
+                "nickname": "胡于晨",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1445586522225999889",
+                "studentNumber": "202100800395",
+                "name": "胡于晨",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947206",
+            "user": {
+                "id": "1480400154200678400",
+                "email": "705635545@qq.com",
+                "nickname": "赵金燕",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1480099289711624262",
+                "studentNumber": "202100800074",
+                "name": "赵金燕",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947205",
+            "user": {
+                "id": "1498222116092166144",
+                "email": "2434510416@qq.com",
+                "nickname": "孙铭阳",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1480099289711624235",
+                "studentNumber": "202100800044",
+                "name": "孙铭阳",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947200",
+            "user": {
+                "id": "1540963892854517760",
+                "email": "sduwh-2020S0810262@gen-student-user.pat-edu.org",
+                "nickname": "丁杨",
+                "fake": true,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1540963892854517760",
+                "studentNumber": "2020S0810262",
+                "name": "丁杨",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947212",
+            "user": {
+                "id": "1577981797950169088",
+                "email": "1131733387@qq.com",
+                "nickname": "计合02王泽铭",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1575673064158974013",
+                "studentNumber": "202200800140",
+                "name": "王泽铭",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947211",
+            "user": {
+                "id": "1577988620220493824",
+                "email": "418059545@qq.com",
+                "nickname": "姜梦荃",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86166******29",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1575673064158973975",
+                "studentNumber": "202200800102",
+                "name": "姜梦荃",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947204",
+            "user": {
+                "id": "1583054398129319936",
+                "email": "",
+                "nickname": "张喜金",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86195******80",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1582563075232096257",
+                "studentNumber": "202100830115",
+                "name": "张喜金",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947215",
+            "user": {
+                "id": "1706843443760050176",
+                "email": "",
+                "nickname": "吴轶轩",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86178******05",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017711071238",
+                "studentNumber": "202300800352",
+                "name": "吴轶轩",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947279",
+            "user": {
+                "id": "1706843670537695232",
+                "email": "1007071896@qq.com",
+                "nickname": "姜书涵",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265585",
+                "studentNumber": "202300800472",
+                "name": "姜书涵",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947237",
+            "user": {
+                "id": "1706843697930694656",
+                "email": "",
+                "nickname": "也许没人在",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86188******86",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265543",
+                "studentNumber": "202300800448",
+                "name": "杜畅",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947247",
+            "user": {
+                "id": "1706843741211701248",
+                "email": "",
+                "nickname": "程思涵",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86159******89",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265553",
+                "studentNumber": "202300800476",
+                "name": "程思涵",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947283",
+            "user": {
+                "id": "1706843861273657344",
+                "email": "",
+                "nickname": "吕明哲",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86135******58",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265589",
+                "studentNumber": "202300800482",
+                "name": "吕明哲",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947225",
+            "user": {
+                "id": "1706843879955087360",
+                "email": "",
+                "nickname": "邹格菲",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86150******62",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017711071248",
+                "studentNumber": "202300800387",
+                "name": "邹格菲",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947233",
+            "user": {
+                "id": "1706843901341847552",
+                "email": "",
+                "nickname": "舒文森",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86157******58",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265539",
+                "studentNumber": "202300800433",
+                "name": "舒文森",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947221",
+            "user": {
+                "id": "1706843952336203776",
+                "email": "",
+                "nickname": "蒋雨航",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86178******35",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017711071244",
+                "studentNumber": "202300800372",
+                "name": "蒋雨航",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947285",
+            "user": {
+                "id": "1706843958896078848",
+                "email": "",
+                "nickname": "武佳慧",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86158******81",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265591",
+                "studentNumber": "202300800485",
+                "name": "武佳慧",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947248",
+            "user": {
+                "id": "1706844131986620416",
+                "email": "",
+                "nickname": "电子01靳明阳",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86183******21",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265554",
+                "studentNumber": "202300800477",
+                "name": "靳明阳",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947286",
+            "user": {
+                "id": "1706844345266978816",
+                "email": "202100700221@mail.sdu.edu.cn",
+                "nickname": "张逸晴",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265592",
+                "studentNumber": "202100700221",
+                "name": "张逸晴",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947271",
+            "user": {
+                "id": "1707217210457837568",
+                "email": "1326574758@qq.com",
+                "nickname": "臧存昊",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265577",
+                "studentNumber": "202300800432",
+                "name": "臧存昊",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947231",
+            "user": {
+                "id": "1712611088125607936",
+                "email": "",
+                "nickname": "电子01李子岳",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86157******06",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265537",
+                "studentNumber": "202300800424",
+                "name": "李子岳",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947266",
+            "user": {
+                "id": "1712611524761042944",
+                "email": "",
+                "nickname": "kuai",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86183******29",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265572",
+                "studentNumber": "202300800407",
+                "name": "樊晨曦",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947282",
+            "user": {
+                "id": "1712611661503758336",
+                "email": "",
+                "nickname": "王传霖",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86139******58",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265588",
+                "studentNumber": "202300800480",
+                "name": "王传霖",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947278",
+            "user": {
+                "id": "1712611868895313920",
+                "email": "",
+                "nickname": "酒长",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86151******27",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265584",
+                "studentNumber": "202300800470",
+                "name": "周兴",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947241",
+            "user": {
+                "id": "1712612170226700288",
+                "email": "",
+                "nickname": "王靖涵",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86152******38",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265547",
+                "studentNumber": "202300800461",
+                "name": "王靖涵",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947264",
+            "user": {
+                "id": "1712612300153651200",
+                "email": "",
+                "nickname": "冉一飞",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86187******67",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265570",
+                "studentNumber": "202300800399",
+                "name": "冉一飞",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947232",
+            "user": {
+                "id": "1712612989797875712",
+                "email": "",
+                "nickname": "金粲粲",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86157******09",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265538",
+                "studentNumber": "202300800425",
+                "name": "金粲粲",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947214",
+            "user": {
+                "id": "1712613307226996736",
+                "email": "",
+                "nickname": "岳宇娟",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86193******64",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017711071237",
+                "studentNumber": "202300800347",
+                "name": "岳宇娟",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        },
+        {
+            "id": "1704068018096947242",
+            "user": {
+                "id": "1712614012604071936",
+                "email": "",
+                "nickname": "赵守海",
+                "fake": false,
+                "info": "",
+                "activate": false,
+                "phone": "+86150******55",
+                "realName": "",
+                "deregistered": false,
+                "emailActivated": false,
+                "phoneActivated": false,
+                "type": "UNKNOWN"
+            },
+            "studentUser": {
+                "id": "1704068017715265548",
+                "studentNumber": "202300800467",
+                "name": "赵守海",
+                "userId": "0",
+                "image": "",
+                "organization": {
+                    "id": "78",
+                    "name": "山东大学（威海）",
+                    "code": "sduwh",
+                    "type": "SCHOOL",
+                    "logo": "b20f6923-dd65-48b1-8330-3fe3b7d7897c.png"
+                }
+            },
+            "userGroupId": "1704067266309910528"
+        }
+    ],
+    "userGroups": {
+        "1704067266309910528": {
+            "id": "1704067266309910528",
+            "name": "23电子类1-2班",
+            "description": "23电子类1-2班",
+            "membersCount": 89,
+            "locked": false,
+            "bindKey": "708606",
+            "visible": false,
+            "type": "STUDENT_USER",
+            "memberVisible": true
+        }
+    }
+}

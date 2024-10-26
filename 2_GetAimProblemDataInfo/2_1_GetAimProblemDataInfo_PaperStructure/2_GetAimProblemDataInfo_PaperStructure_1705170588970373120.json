@@ -1,0 +1,29 @@
+{
+    "paperType": "NORMAL",
+    "summariesByPaperIndex": {
+        "0": {
+            "summaryByProblemType": {
+                "TRUE_OR_FALSE": {
+                    "total": 10,
+                    "totalScore": 20,
+                    "totalInPools": 10
+                },
+                "MULTIPLE_CHOICE": {
+                    "total": 10,
+                    "totalScore": 10,
+                    "totalInPools": 10
+                },
+                "PROGRAMMING": {
+                    "total": 3,
+                    "totalScore": 60,
+                    "totalInPools": 3
+                },
+                "SUBJECTIVE": {
+                    "total": 1,
+                    "totalScore": 10,
+                    "totalInPools": 1
+                }
+            }
+        }
+    }
+}
