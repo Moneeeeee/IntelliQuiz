@@ -1,0 +1,889 @@
+[
+    {
+        "id": "63",
+        "name": "C语言基础",
+        "isLeaf": false,
+        "parent_id": null,
+        "children": ["64", "67", "70", "74", "78", "82", "86", "89", "92", "93"],
+        "relations": []
+    },
+    {
+        "id": "64",
+        "name": "基本数据类型与表达式",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["65", "66", "94"],
+        "relations": []
+    },
+    {
+        "id": "65",
+        "name": "表达式",
+        "isLeaf": true,
+        "parent_id": "64",
+        "children": [],
+        "relations": [
+            {
+                "target": "66",
+                "relation": "依赖",
+                "weight": 0.5,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            },
+            {
+                "target": "94",
+                "relation": "相关",
+                "weight": 0.3,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "name": "输入输出格式化控制",
+        "isLeaf": true,
+        "parent_id": "64",
+        "children": [],
+        "relations": [
+            {
+                "target": "103",
+                "relation": "学习顺序",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "94",
+        "name": "运算符与表达式",
+        "isLeaf": true,
+        "parent_id": "64",
+        "children": [],
+        "relations": [
+            {
+                "target": "65",
+                "relation": "基础",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            },
+            {
+                "target": "95",
+                "relation": "扩展",
+                "weight": 0.4,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "95",
+        "name": "位运算",
+        "isLeaf": true,
+        "parent_id": "64",
+        "children": [],
+        "relations": [
+            {
+                "target": "94",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "高",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "67",
+        "name": "分支控制",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["68", "69"],
+        "relations": [
+            {
+                "target": "70",
+                "relation": "逻辑关联",
+                "weight": 0.7,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "68",
+        "name": "if-else",
+        "isLeaf": true,
+        "parent_id": "67",
+        "children": [],
+        "relations": [
+            {
+                "target": "69",
+                "relation": "类比",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "94",
+                "relation": "学习顺序",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "69",
+        "name": "switch",
+        "isLeaf": true,
+        "parent_id": "67",
+        "children": [],
+        "relations": [
+            {
+                "target": "68",
+                "relation": "类比",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "94",
+                "relation": "学习顺序",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "70",
+        "name": "循环控制",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["71", "72", "73"],
+        "relations": [
+            {
+                "target": "67",
+                "relation": "学习顺序",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            },
+            {
+                "target": "94",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "name": "for循环",
+        "isLeaf": true,
+        "parent_id": "70",
+        "children": [],
+        "relations": [
+            {
+                "target": "72",
+                "relation": "类比",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "73",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "94",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "name": "while和do-while循环",
+        "isLeaf": true,
+        "parent_id": "70",
+        "children": [],
+        "relations": [
+            {
+                "target": "71",
+                "relation": "类比",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "94",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "name": "嵌套循环",
+        "isLeaf": true,
+        "parent_id": "70",
+        "children": [],
+        "relations": [
+            {
+                "target": "71",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "72",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "name": "函数与程序结构",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["75", "76", "77", "96"],
+        "relations": [
+            {
+                "target": "70",
+                "relation": "学习顺序",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "75",
+        "name": "函数定义与调用",
+        "isLeaf": true,
+        "parent_id": "74",
+        "children": [],
+        "relations": [
+            {
+                "target": "76",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            },
+            {
+                "target": "96",
+                "relation": "扩展",
+                "weight": 0.4,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "中等"
+            },
+            {
+                "target": "77",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "76",
+        "name": "递归函数",
+        "isLeaf": true,
+        "parent_id": "74",
+        "children": [],
+        "relations": [
+            {
+                "target": "75",
+                "relation": "依赖",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "高"
+            },
+            {
+                "target": "73",
+                "relation": "应用",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "77",
+        "name": "变量作用域与存储类型",
+        "isLeaf": true,
+        "parent_id": "74",
+        "children": [],
+        "relations": [
+            {
+                "target": "75",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "96",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "96",
+        "name": "函数指针",
+        "isLeaf": true,
+        "parent_id": "74",
+        "children": [],
+        "relations": [
+            {
+                "target": "83",
+                "relation": "依赖",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "中等"
+            },
+            {
+                "target": "75",
+                "relation": "扩展",
+                "weight": 0.4,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "name": "数组与字符串",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["79", "80", "81"],
+        "relations": [
+            {
+                "target": "70",
+                "relation": "应用",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "79",
+        "name": "一维数组",
+        "isLeaf": true,
+        "parent_id": "78",
+        "children": [],
+        "relations": [
+            {
+                "target": "81",
+                "relation": "扩展",
+                "weight": 0.5,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "80",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "83",
+                "relation": "学习顺序",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "80",
+        "name": "字符串处理",
+        "isLeaf": true,
+        "parent_id": "78",
+        "children": [],
+        "relations": [
+            {
+                "target": "79",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            },
+            {
+                "target": "100",
+                "relation": "相关",
+                "weight": 0.7,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "name": "多维数组",
+        "isLeaf": true,
+        "parent_id": "78",
+        "children": [],
+        "relations": [
+            {
+                "target": "79",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "82",
+        "name": "指针与动态内存",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["83", "84", "85", "97"],
+        "relations": [
+            {
+                "target": "78",
+                "relation": "依赖",
+                "weight": 0.9,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            },
+            {
+                "target": "74",
+                "relation": "学习顺序",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "83",
+        "name": "指针",
+        "isLeaf": true,
+        "parent_id": "82",
+        "children": [],
+        "relations": [
+            {
+                "target": "79",
+                "relation": "应用",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "高"
+            },
+            {
+                "target": "97",
+                "relation": "依赖",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "高"
+            },
+            {
+                "target": "96",
+                "relation": "学习顺序",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "name": "结构体",
+        "isLeaf": true,
+        "parent_id": "82",
+        "children": [],
+        "relations": [
+            {
+                "target": "85",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "98",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "85",
+        "name": "链表",
+        "isLeaf": true,
+        "parent_id": "82",
+        "children": [],
+        "relations": [
+            {
+                "target": "84",
+                "relation": "依赖",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "中等"
+            },
+            {
+                "target": "83",
+                "relation": "依赖",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "name": "动态内存分配",
+        "isLeaf": true,
+        "parent_id": "82",
+        "children": [],
+        "relations": [
+            {
+                "target": "83",
+                "relation": "基础",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "困难",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "86",
+        "name": "文件操作",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["87", "88"],
+        "relations": [
+            {
+                "target": "83",
+                "relation": "依赖",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "87",
+        "name": "文本文件处理",
+        "isLeaf": true,
+        "parent_id": "86",
+        "children": [],
+        "relations": [
+            {
+                "target": "88",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "103",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "name": "二进制文件处理",
+        "isLeaf": true,
+        "parent_id": "86",
+        "children": [],
+        "relations": [
+            {
+                "target": "87",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "name": "预处理和宏",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["90", "91"],
+        "relations": [
+            {
+                "target": "74",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "name": "预处理指令",
+        "isLeaf": true,
+        "parent_id": "89",
+        "children": [],
+        "relations": [
+            {
+                "target": "91",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "name": "宏定义",
+        "isLeaf": true,
+        "parent_id": "89",
+        "children": [],
+        "relations": [
+            {
+                "target": "90",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "92",
+        "name": "高级主题",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["98", "99"],
+        "relations": [
+            {
+                "target": "74",
+                "relation": "学习顺序",
+                "weight": 0.9,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "98",
+        "name": "枚举类型",
+        "isLeaf": true,
+        "parent_id": "92",
+        "children": [],
+        "relations": [
+            {
+                "target": "84",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "99",
+        "name": "联合体",
+        "isLeaf": true,
+        "parent_id": "92",
+        "children": [],
+        "relations": [
+            {
+                "target": "84",
+                "relation": "相关",
+                "weight": 0.5,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "93",
+        "name": "标准库函数",
+        "isLeaf": false,
+        "parent_id": "63",
+        "children": ["100", "101", "102", "103"],
+        "relations": [
+            {
+                "target": "74",
+                "relation": "应用",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            }
+        ]
+    },
+    {
+        "id": "100",
+        "name": "字符串函数",
+        "isLeaf": true,
+        "parent_id": "93",
+        "children": [],
+        "relations": [
+            {
+                "target": "80",
+                "relation": "应用",
+                "weight": 0.8,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "高"
+            },
+            {
+                "target": "103",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "101",
+        "name": "数学函数",
+        "isLeaf": true,
+        "parent_id": "93",
+        "children": [],
+        "relations": [
+            {
+                "target": "65",
+                "relation": "应用",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "102",
+        "name": "时间日期函数",
+        "isLeaf": true,
+        "parent_id": "93",
+        "children": [],
+        "relations": [
+            {
+                "target": "83",
+                "relation": "依赖",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    },
+    {
+        "id": "103",
+        "name": "输入输出函数",
+        "isLeaf": true,
+        "parent_id": "93",
+        "children": [],
+        "relations": [
+            {
+                "target": "66",
+                "relation": "基础",
+                "weight": 0.6,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "87",
+                "relation": "应用",
+                "weight": 0.7,
+                "directed": true,
+                "difficulty": "中等",
+                "importance": "中等"
+            },
+            {
+                "target": "100",
+                "relation": "相关",
+                "weight": 0.6,
+                "directed": false,
+                "difficulty": "中等",
+                "importance": "中等"
+            }
+        ]
+    }
+]
